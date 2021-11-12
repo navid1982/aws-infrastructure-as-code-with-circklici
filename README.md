@@ -1,1 +1,1 @@
-# aws-infrastructure-as-code-with-circklici
+# aws-infrastructure-as-code-with-circleci
